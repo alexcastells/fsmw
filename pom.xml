@@ -7,7 +7,7 @@
 	<packaging>jar</packaging>
 
 	<name>${project.artifactId}</name>
-	<description>Finite State Machine and WorkflowFACTORIA / Workflow Finite State Machine</description>
+	<description>Finite State Machine and Workflow</description>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
